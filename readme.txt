@@ -44,3 +44,6 @@ $ ./hello-opencv
 You must be able to see the Google logo displayed in a window.
 
 ***
+
+Run the file using command
+$ ./DisplayImage google.png
